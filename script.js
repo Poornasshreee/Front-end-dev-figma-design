@@ -1,4 +1,4 @@
-// Add interactivity to the IRIS portal
+
 
 // Navigation buttons
 const navButtons = document.querySelectorAll('.nav-btn');
